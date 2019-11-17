@@ -1,0 +1,62 @@
+  Proyecto2PAJorgeGarcía1220019.AgregarAct.resources - Embedded, ContainedInManifestFile, 
+  Proyecto2PAJorgeGarcía1220019.AlarmaRecord.resources - Embedded, ContainedInManifestFile, 
+  Proyecto2PAJorgeGarcía1220019.MyForm.resources - Embedded, ContainedInManifestFile, 
+  Proyecto2PAJorgeGarcía1220019.MyForm1.resources - Embedded, ContainedInManifestFile, 
+  Proyecto2PAJorgeGarcía1220019.MyForm3.resources - Embedded, ContainedInManifestFile, 
+  Proyecto2PAJorgeGarcía1220019.MyForm4.resources - Embedded, ContainedInManifestFile, 
+ImageRuntimeVersion: v4.0.30319
+Assembly Proyecto2_PA_JorgeGarcía_1220019, Version=0.0.*, Culture=Todos los idiomas (todos los países): 
+	hash=SHA1, flags=PublicKey
+Assembly mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a: 
+	hash=None, flags=None
+Assembly System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Assembly System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089: 
+	hash=None, flags=None
+Class Proyecto2PAJorgeGarcía1220019.AgregarAct: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Proyecto2PAJorgeGarcía1220019.AlarmaRecord: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+Class Proyecto2PAJorgeGarcía1220019.MyForm: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Methods:
+    Closing(): PrivateScope, Public, HideBySig
+Class Proyecto2PAJorgeGarcía1220019.MyForm3: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String ruta : Public
+    System.String año : Public
+    System.String mes : Public
+    System.String dia : Public
+Class Proyecto2PAJorgeGarcía1220019.MyForm4: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(System.String, System.String, System.String, System.String): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String ruta : Public
+    System.String año : Public
+    System.String mes : Public
+    System.String dia : Public
+Class Proyecto2PAJorgeGarcía1220019.MyForm1: AutoLayout, AnsiClass, Class, Public, BeforeFieldInit
+  :System.Windows.Forms.Form
+    Void .ctor(): PrivateScope, Public, HideBySig, SpecialName, RTSpecialName
+  Fields:
+    System.String ruta : Public
+    System.String mes : Public
+    System.String año : Public
+    System.String dia : Public
+    System.String texto : Public
+    System.String[] arregloString : Public
+    Proyecto2PAJorgeGarcía1220019.AlarmaRecord AlarmRecor : Public
